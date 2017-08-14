@@ -15,7 +15,7 @@ body {
 	line-height: 1.3em;
 	margin: 0;
 	padding: 0;
-	background: $color_1 url(images/pattern.png) repeat 0 0;
+	background: darken($color_1,10%) url(images/pattern.png) repeat 0 0;
 	background-size: 20px auto;
 	color: $color_1;
 }
