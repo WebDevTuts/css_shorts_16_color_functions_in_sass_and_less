@@ -9,6 +9,7 @@
 
 $color_1: #2f6cb9;
 $color_2: adjust-hue($color_1, 10deg);
+$color_3: adjust-hue($color_1, -60deg);
 
 body {
 	font-family: 'Droid Sans', sans-serif;
