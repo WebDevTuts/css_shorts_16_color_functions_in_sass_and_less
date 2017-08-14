@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald');
 
 $color_1: #2f6cb9;
+$color_2: adjust-hue($color_1, 10deg);
 
 body {
 	font-family: 'Droid Sans', sans-serif;
